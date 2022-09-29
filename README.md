@@ -1,4 +1,4 @@
-#King of The Fools 
+# King of The Fools 
 
 
 Using hardhat sample project as base.
