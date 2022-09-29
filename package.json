@@ -1,0 +1,23 @@
+{
+  "name": "kingofthefools",
+  "version": "1.0.0",
+  "description": "Code Interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fritzhoy/KingOfTheFools.git"
+  },
+  "author": "Camila Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fritzhoy/KingOfTheFools/issues"
+  },
+  "homepage": "https://github.com/Fritzhoy/KingOfTheFools#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.11.2"
+  }
+}
