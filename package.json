@@ -17,7 +17,14 @@
   },
   "homepage": "https://github.com/Fritzhoy/KingOfTheFools#readme",
   "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.3",
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",
-    "hardhat": "^2.11.2"
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "chai-as-promised": "^7.1.1",
+    "hardhat": "^2.11.2",
+    "mocha": "^10.0.0"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "^0.5.1"
   }
 }
