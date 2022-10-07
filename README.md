@@ -1,17 +1,34 @@
 # King of The Fools 
 
+code devoloper for interview purpose
 
-Using hardhat sample project as base.
-## Sample Hardhat Project
+sections
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## contracts 
 
-Try running some of the following tasks:
+Main Contract - KingOfTheFools 
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+### Mocks
+
+Created 3 smart contracts FakeEth, FakeUsd, Fool 
+
+Used for Unit test
+
+## Test
+
+Unit test using Chai and Hardhat: Divided in two parts: 
+
+Happy Path - where the function should work as expected 
+Unhappy Path - where the function should revert and return the error messeger
+
+#scripts
+
+file with deployment script
+
+## Client
+
+Front - End application build using React.js and Ethers.js 
+
+### src
+
+
