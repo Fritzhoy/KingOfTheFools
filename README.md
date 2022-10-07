@@ -2,9 +2,9 @@
 
 code devoloper for interview purpose
 
-sections
+# Sections
 
-## contracts 
+## Contracts 
 
 Main Contract - KingOfTheFools 
 
